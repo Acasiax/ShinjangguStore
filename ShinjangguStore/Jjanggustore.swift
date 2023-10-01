@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//짱구 스토어
 struct Jjanggustore: View {
     var body: some View {
         Home()
