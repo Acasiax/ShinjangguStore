@@ -13,7 +13,8 @@ struct ShinjangguStoreApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Jjanggustore()
+            //ContentView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
