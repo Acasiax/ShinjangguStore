@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//메뉴
 struct Menu : Identifiable {
     
     var id : Int
